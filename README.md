@@ -1,16 +1,19 @@
 ### Hi there 👋
 
+<h1 align="center"> I'm AKSHAY BIRAJDAR</h1>
+<h3 align="center">A passionate Data Analyst from India</h3>
+
 --!
 Here are some ideas to get you started:
 
+
 - 🔭 I’m currently working on Analysis Projects 
-- 🌱 I’m currently learning Python Programming
+- 🌱 I’m currently learning BCA, Aspiring Data Enthusiast
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for Data Domain Jobs
 - 💬 Ask me about:Technology And Data Analyst
 - 📫 How to reach me ==akshaybirajadar2@gmail.com==
-- 😄 Pronouns: ...
-- ⚡ Fun fact:
+- ⚡ Fun fact: I am Funny 😅
 -->
 
 
