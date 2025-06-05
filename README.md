@@ -6,7 +6,7 @@
 --!
 Here are some ideas to get you started:
 
-
+🎓 MCA Fresher | Aspiring QA Engineer | Passionate about Software Testing
 - 🔭 I’m currently working on Analysis Projects 
 - 🌱 I’m currently learning BCA, Aspiring Data Enthusiast
 - 👯 I’m looking to collaborate on ...
