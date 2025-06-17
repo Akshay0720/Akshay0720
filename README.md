@@ -1,17 +1,17 @@
 ### Hi there 👋
 
 <h1 align="center"> I'm AKSHAY BIRAJDAR</h1>
-<h3 align="center">A passionate Data Analyst from India</h3>
+<h3 align="center">A passionate QA Analyst from India</h3>
 
 --!
 Here are some ideas to get you started:
 
-🎓 MCA Fresher | Aspiring QA Engineer | Passionate about Software Testing
-- 🔭 I’m currently working on Analysis Projects 
-- 🌱 I’m currently learning BCA, Aspiring Data Enthusiast
+🎓 MCA Fresher | Aspiring QA Engineer | Passionate about Software Testing / Automation Tester
+- 🔭 I’m currently working on Automation Project
+- 🌱 I’m currently learning MCA, Aspiring QA Automation Enthusiast
 - 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for Data Domain Jobs
-- 💬 Ask me about:Technology And Data Analyst
+- 🤔 I’m looking for QA Domain Jobs
+- 💬 Ask me about:Technology And QA Automation 
 - 📫 How to reach me ==akshaybirajadar2@gmail.com==
 - ⚡ Fun fact: I am Funny 😅
 -->
