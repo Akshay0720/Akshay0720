@@ -12,7 +12,7 @@ I’m a passionate QA Engineer with hands-on experience in **Playwright**, **Jav
 
 I specialize in:
 - 🎯 Web UI Test Automation using Playwright
-- 🔁 API Testing using Playwright & Postman
+- 🔁 API Testing(Basic) using Playwright
 - 🧪 Test Case Design & Automation Strategy
 - ⚙️ GitHub Actions
 - 📊 Allure & HTML reporting for test insights
