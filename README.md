@@ -31,7 +31,7 @@ I specialize in:
 
 ## 🏆 Certifications
 
-- ✔️ JavaScript Basics – [HackerRank](https://www.hackerrank.com/certificates/74738343950a)  
+- ✔️ JavaScript Basics – [HackerRank](https://www.hackerrank.com/certificates/1cc81b792814)  
 - ✔️ Python Basics – [HackerRank](https://www.hackerrank.com/certificates/8c1165265c58)
 - ✔️ SQL Basics – [HackerRank](https://www.hackerrank.com/certificates/745bfae14148)
 - ✔️ SQL Advanced – [HackerRank](https://www.hackerrank.com/certificates/b5eed4ef1d2e)
