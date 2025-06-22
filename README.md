@@ -52,7 +52,7 @@ Bharati Vidyapeeth Deemed University, Pune(2021–2024) – CGPA: 8.52
 
 ## 📬 Let's Connect
 
-- 🔗 [LinkedIn](https://linkedin.com/in/akshaybirajdar)  
+- 🔗 [LinkedIn](https://www.linkedin.com/in/akshay-birajdar-3766a5253/)  
 - 📧 Email: akshaybirajadar2@gmail.com 
 - 🧑‍💻 GitHub: [@akshaybirajdar](https://github.com/akshaybirajdar)
 
