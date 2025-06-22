@@ -1,37 +1,68 @@
-### Hi there 👋
+# 👋 Hello! I'm Akshay Birajdar
 
-<h1 align="center"> I'm AKSHAY BIRAJDAR</h1>
-<h3 align="center">A passionate QA Analyst from India</h3>
+**QA Automation Enthusiast | Playwright & JavaScript | Manual & Automation**
 
---!
-Here are some ideas to get you started:
-
-🎓 MCA Fresher | Aspiring QA Engineer | Passionate about Software Testing / Automation Tester
-- 🔭 I’m currently working on Automation Project
-- 🌱 I’m currently learning MCA, Aspiring QA Automation Enthusiast
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for QA Domain Jobs
-- 💬 Ask me about:Technology And QA Automation 
-- 📫 How to reach me ==akshaybirajadar2@gmail.com==
-- ⚡ Fun fact: I am Funny 😅
--->
-
-
-## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/Mr_akiii_20) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/www.linkedin.com/in/akshay-birajdar-3766a5253) 
-
-# 💻 Tech Stack:
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![MySQL](https://img.shields.io/badge/mysql-%2300000f.svg?style=for-the-badge&logo=mysql&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![Plotly](https://img.shields.io/badge/Plotly-%233F4F75.svg?style=for-the-badge&logo=plotly&logoColor=white) ![Power Bi](https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black) ![Apache Hadoop](https://img.shields.io/badge/Apache%20Hadoop-66CCFF?style=for-the-badge&logo=apachehadoop&logoColor=black) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
-
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=Akshay0720&theme=dark&hide_border=false&include_all_commits=true&count_private=false)
-![](https://github-readme-streak-stats.herokuapp.com/?user=Akshay0720&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Akshay0720&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
-
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=Akshay0720&limit=5&theme=dark&combine_all_yearly_contributions=true)
+🎯 Focused on delivering robust and scalable test automation for modern web applications using cutting-edge tools and Agile practices.
 
 ---
-[![](https://visitcount.itsvg.in/api?id=Akshay0720&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+## ✅ Summary
+
+I’m a passionate QA Engineer with hands-on experience in **Playwright**, **JavaScript**, and **end-to-end test automation**. My approach blends **test-first development**, deep collaboration with dev teams to catch bugs before users do.
+
+I specialize in:
+- 🎯 Web UI Test Automation using Playwright
+- 🔁 API Testing using Playwright & Postman
+- 🧪 Test Case Design & Automation Strategy
+- ⚙️ GitHub Actions
+- 📊 Allure & HTML reporting for test insights
+
+---
+
+## 🛠️ Technical Skills
+
+- **Languages:** JavaScript,Python (Basics)
+- **Testing Frameworks:** Playwright
+- **CI/CD:** GitHub Actions
+- **Tools:** VS Code, Git, Postman, Swagger
+- **Reporting:** Allure, Playwright Trace Viewer, HTML Report
+- 
+---
+
+## 🏆 Certifications
+
+- ✔️ JavaScript Basics – HackerRank  
+- ✔️ Python Basics – HackerRank
+- ✔️ SQL Basics – HackerRank
+- ✔️ SQL Basics – HackerRank
+- ✔️ SQL Intermediate – HackerRank
+- ✔️Problem Solving – HackerRank
+
+---
+
+## 📚 Education
+
+**Master of Computer Applications (MCA)**  
+Bharati Vidyapeeth Deemed University, Pune (2024–2026) - CGPA: 8.52
+
+**Bachelor of Computer Applications (BCA)**  
+Bharati Vidyapeeth Deemed University, Pune(2021–2024) – CGPA: 8.52
+
+---
+
+## 📬 Let's Connect
+
+- 🔗 [LinkedIn](https://linkedin.com/in/akshaybirajdar)  
+- 📧 Email: akshaybirajadar2@gmail.com 
+- 🧑‍💻 GitHub: [@akshaybirajdar](https://github.com/akshaybirajdar)
+
+---
+
+### 💡 Final Thought
+
+> _"A good test doesn’t just catch bugs — it teaches you how the system works."_  
+> – Akshay Birajdar
+
+---
+
+_This README is a living resume. All project links, commits, and progress are 100% real and open for review._
