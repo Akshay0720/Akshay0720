@@ -43,10 +43,10 @@ I specialize in:
 ## 📚 Education
 
 **Master of Computer Applications (MCA)**  
-Bharati Vidyapeeth Deemed University, Pune (2024–2026) - CGPA: 8.52
+Bharati Vidyapeeth Deemed University, Pune (2024–2026) - CGPA: 9.00
 
 **Bachelor of Computer Applications (BCA)**  
-Bharati Vidyapeeth Deemed University, Pune(2021–2024) – CGPA: 8.52
+Bharati Vidyapeeth Deemed University, Pune (2021–2024) – CGPA: 8.52
 
 ---
 
